@@ -1,0 +1,4 @@
+This is a Facemask detection code and here i have not inserted any data set.
+you can insert a data set name (data) inside that you can make two folder name with mask and without mask . The data set can be available online. 
+data.npy is also missing as it size was more and i can't put that so.
+Here only code is available
